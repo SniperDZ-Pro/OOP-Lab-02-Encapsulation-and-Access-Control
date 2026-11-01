@@ -10,4 +10,4 @@ Understand and apply encapsulation by hiding an object's internal state behind `
 - `MainApp.java`: The main execution program.
 - **Individual Tasks:** 6 hands-on exercises to add attributes, read via getters, write via setters, and observe compile-time protection.
 
-**Note:** Please refer to the attached **Lesson_2_Guide.pdf** and **reference images** for detailed step-by-step instructions, code snippets, and GitHub submission guidelines.
+**Note:** Please refer to the attached **Lesson_2_Guide.pdf** for detailed step-by-step instructions, code snippets, and GitHub submission guidelines.
